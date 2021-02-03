@@ -1,0 +1,19 @@
+BODY{
+  text-align: right;
+  background-color: orange;
+}
+navbar{
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+@media (max-height: 800px){ p {
+  font-size: 10px;
+  }};
+flex-direction: row;
+
+
+
+
+  
